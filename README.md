@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0704-binary-search) |
 ## Hash Table
@@ -18,4 +19,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
