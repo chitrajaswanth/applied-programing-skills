@@ -54,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/1704-determine-if-string-halves-are-alike) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
