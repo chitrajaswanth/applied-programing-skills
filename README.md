@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0997-find-the-town-judge) |
+| [1314-matrix-block-sum](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1314-matrix-block-sum](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0867-transpose-matrix) |
+| [1314-matrix-block-sum](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/1314-matrix-block-sum) |
 ## Simulation
 |  |
 | ------- |
