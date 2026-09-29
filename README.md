@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
