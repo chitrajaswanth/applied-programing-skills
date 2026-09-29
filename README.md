@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0977-squares-of-a-sorted-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0349-intersection-of-two-arrays) |
 | [0997-find-the-town-judge](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0997-find-the-town-judge) |
 ## Sliding Window
 |  |
@@ -36,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -49,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
