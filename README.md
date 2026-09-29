@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/1314-matrix-block-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
