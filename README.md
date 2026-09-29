@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0067-add-binary) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Counting
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0867-transpose-matrix) |
 ## Divide and Conquer
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/chitrajaswanth/applied-programing-skills/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
